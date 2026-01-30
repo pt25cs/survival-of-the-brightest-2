@@ -112,12 +112,9 @@ survival-of-the-brightest-2/
 ### Development Team
 This game was created by a talented team of students for the 2023 TSA State Competition.
 
-- **Team Members**: [To be added]
-- **Project Lead**: [To be added]
-- **Programming**: [To be added]
-- **Art & Design**: [To be added]
-- **Sound Design**: [To be added]
-- **Testing**: [To be added]
+- **Team Members**: [Nolan Smith, Jeff Jom, Skrikar Kolipaka, Paul Thomas, Chi Ming Fung]
+- **Programming**: [Nolan Smith, Paul Thomas]
+- **Testing**: [Jeff Jom, Srikar Kolipaka]
 
 ### Special Thanks
 - Technology Student Association (TSA)
